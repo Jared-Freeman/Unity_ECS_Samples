@@ -1,0 +1,17 @@
+{
+    "name": "com.jurd.utilities",
+    "version": "1.0.0",
+    "displayName": "Jurd's Utilities",
+    "description": "Data structures, extensions, and methods",
+    "unity": "2019.1",
+    "dependencies": {
+        
+    },
+    "keywords": [
+        "utility",
+        "utilities"
+    ],
+    "author": {
+        "name": "Jared Freeman"
+    }
+}
